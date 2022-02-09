@@ -11,7 +11,6 @@ No-judgement, it is ok to make mistakes
  
 ## Configure your git
 Before you do anything, set up your gitconfig - set your username and email
-INFO: the username and the email will be visible in any commits you push to GitHub from the command line. If you'd like to keep your real name private, you can use any text as your Git username.
 
 ```
 $ git config --global user.name "YOUR_NAME"
