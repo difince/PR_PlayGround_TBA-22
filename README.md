@@ -16,15 +16,17 @@ Before you do anything, set up your gitconfig - set your username and email
 $ git config --global user.name "YOUR_NAME"
 $ git config --global user.email your_name@mail.com
 ```
-## Fork the project you want to contribute to 
+## Submit PR from your fork 
+
+### What is fork? What is it used for?
+
 Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 Forks are often used in open source development on GitHub. When you contribute in open source project you may not 
 have permission to do commits in the original repository. So you need to fork it. By forking a repository, you are 
 creating a copy of the repo to your account.
 
-
-##Submit PR from your fork
-
+### Fork the project you want to contribute to
+ADD IMAGE? 
 ### Clone your fork
 ```
 $ git clone <your clone>
